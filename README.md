@@ -1,3 +1,2 @@
 # SampleProject
-First Commit
-Second Commit
+07/08
